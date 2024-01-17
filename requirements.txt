@@ -9,11 +9,11 @@
 
 pandas==1.2.0
 numpy==1.23.0
-mplfinance==0.12.10b0
 numba>=0.47
 tushare>=1.2.89
 rich>=10.0.0
 
+mplfinance
 pytz
 matplotlib
 requests
