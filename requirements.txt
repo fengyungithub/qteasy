@@ -7,11 +7,11 @@
 #   Required dependencies for qteasy
 # ======================================
 
-pandas>=1.1.0
-numpy>=1.18.1
+pandas==1.2.0
+numpy==1.23.0
 numba>=0.47
-tushare>=1.2.89
 mplfinance>=0.11
+tushare>=1.2.89
 rich>=10.0.0
 
 pytz
